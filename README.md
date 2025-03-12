@@ -1,2 +1,2 @@
 # recetas2025
-lista de recetas
+lista de recetas.
