@@ -1,10 +1,13 @@
-tortilla de papa
+TORTILLA DE PAPAS
+Ingredientes :
+
 5 huevos
 2 papas
 1 cebolla 
 oregano
 
-paso a paso:
+Paso a paso:
+
 Cortar las papas en rodajas finas, estilo papas españolas.
 Colocar abundante aceite en una sartén.
 Luego de revolver bien para que esté todo integrado en la sartén, agregamos un poco de sal y vamos a bajar el fuego al mínimo y vamos a tapar la sartén.
